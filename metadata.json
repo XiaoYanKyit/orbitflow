@@ -1,0 +1,6 @@
+{
+  "name": "OrbitFlow",
+  "description": "Production-grade B2B project management SaaS featuring interactive Kanban workflows, project tracking, team workload management, and delivery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
